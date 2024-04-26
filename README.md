@@ -25,7 +25,7 @@ Note: Subject to your system, modify these training files (*.py) to have the rig
 ```
 $ python NetTOP_places365.py --evaluate
 ```
-Note: For instances of validation of NetTOP, download the trained model of NetTOP on Places365: [Click here](https://drive.google.com/file/d/1BpoTBLcdAFwFVVv4dZJ5NxslqKcq5AQ8/view?usp=drive_link). And then locate the downloaded file at ./runs/CGDFNet_g1_/
+Note: For instances of validation of NetTOP, download the trained model of NetTOP on Places365: [Click here](https://drive.google.com/file/d/1BpoTBLcdAFwFVVv4dZJ5NxslqKcq5AQ8/view?usp=drive_link). And then locate the downloaded file at ./runs/NetTOP_g1_/
 
 **Related citations:**
 

@@ -27,8 +27,9 @@ $ python Train_NetTOP_StanfordDogs.py --evaluate
 $ python Train_NetTOP_ImageNet.py --evaluate
 ```
 <u>**Note:**</u>
--Subject to your system, modify these files (*.py) to have the right path to dataset
--For the instance of validation of NetTOP on ImageNet, download its trained model at: [Click here](https://drive.google.com/file/d/106AtFXm9mRM1vf-msBl-XUvvSVU-UZLM/view?usp=drive_link). And then locate the downloaded file as ./checkpoints/ImageNet1k/model_best.pth.tar
+- Subject to your system, modify these files (*.py) to have the right path to dataset
+
+- For the instance of validation of NetTOP on ImageNet, download its trained model at: [Click here](https://drive.google.com/file/d/106AtFXm9mRM1vf-msBl-XUvvSVU-UZLM/view?usp=drive_link). And then locate the downloaded file as ./checkpoints/ImageNet1k/model_best.pth.tar
 
 **Related citations:**
 

@@ -16,12 +16,12 @@ on benchmark datasets have proved the prominent performance of the proposals.
 
 <u>**Training and validating NetTOP on dataset Stanford Dogs:**</u>
 
-- For training NetTOP on dataset Stanford Dogs and ImageNet:
+- For training NetTOP on datasets Stanford Dogs and ImageNet:
 ```
 $ python Train_NetTOP_StanfordDogs.py
 $ python Train_NetTOP_ImageNet.py
 ```
-- For validating NetTOP on dataset Stanford Dogs and ImageNet::
+- For validating NetTOP on datasets Stanford Dogs and ImageNet::
 ```
 $ python Train_NetTOP_StanfordDogs.py --evaluate
 $ python Train_NetTOP_ImageNet.py --evaluate

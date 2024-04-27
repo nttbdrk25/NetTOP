@@ -15,9 +15,9 @@ blocks (named NetTOP) is proposed to take advantage of the full-side informative
 on benchmark datasets have proved the prominent performance of the proposals.
 
 <u>**An example for training and validating NetTOP on dataset Stanford Dogs:**</u>
-
+for training:
 ```
-for training
+
 '''
 $ python Train_NetTOP_StanfordDogs.py 
 $ python Train_NetTOP_StanfordDogs.py --evaluate

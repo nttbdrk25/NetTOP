@@ -14,8 +14,9 @@ orthogonal-plane feature extraction. iii) A light-weight backbone of TOP-based
 blocks (named NetTOP) is proposed to take advantage of the full-side informative patterns for image representation. Experimental results for image recognition
 on benchmark datasets have proved the prominent performance of the proposals.
 
-<u>**An example for training and validating NetTOP on dataset Stanford Dogs:**</u>
-for training:
+<u>**Training and validating NetTOP on dataset Stanford Dogs:**</u>
+
+For training:
 ```
 
 '''

@@ -31,7 +31,7 @@ $ python Train_NetTOP_ImageNet.py --evaluate
 
 - For the instance of validation of NetTOP on ImageNet, download its trained model at: [Click here](https://drive.google.com/file/d/106AtFXm9mRM1vf-msBl-XUvvSVU-UZLM/view?usp=drive_link). And then locate the downloaded file as ./checkpoints/ImageNet1k/model_best.pth.tar
 
-**Related citations:**
+**Related citation(s):**
 
 If you use any materials, please cite the following relevant work(s).
 

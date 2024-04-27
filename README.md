@@ -26,7 +26,7 @@ For validating NetTOP on dataset Stanford Dogs and ImageNet::
 $ python Train_NetTOP_StanfordDogs.py --evaluate
 $ python Train_NetTOP_ImageNet.py --evaluate
 ```
-Note: Subject to your system, modify these training files (*.py) to have the right path to dataset
+Note: Subject to your system, modify these files (*.py) to have the right path to dataset
 
 Note: For instances of validation of NetTOP, download the trained model of NetTOP on Places365: [Click here](https://drive.google.com/file/d/1BpoTBLcdAFwFVVv4dZJ5NxslqKcq5AQ8/view?usp=drive_link). And then locate the downloaded file at ./runs/NetTOP_g1_/
 

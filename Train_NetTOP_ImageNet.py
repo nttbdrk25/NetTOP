@@ -37,7 +37,7 @@ parser.add_argument('--arch', '-a', metavar='ARCH', default=model_names[0],
                     choices=model_names,
                     help='model architecture: ' +
                         ' | '.join(model_names) +
-                        ' (default: TickNet)')
+                        ' (default: NetTOP)')
 parser.add_argument('-j', '--workers', default=16, type=int, metavar='N',
                     help='number of data loading workers (default: 4)')
 parser.add_argument('--epochs', default=100, type=int, metavar='N',

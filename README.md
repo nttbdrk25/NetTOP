@@ -28,7 +28,7 @@ $ python Train_NetTOP_ImageNet.py --evaluate
 ```
 Note: Subject to your system, modify these files (*.py) to have the right path to dataset
 
-Note: For instances of validation of NetTOP, download the trained model of NetTOP on Places365: [Click here](https://drive.google.com/file/d/1BpoTBLcdAFwFVVv4dZJ5NxslqKcq5AQ8/view?usp=drive_link). And then locate the downloaded file at ./runs/NetTOP_g1_/
+Note: For the instance of validation of NetTOP on ImageNet, download its trained model at: [Click here](https://drive.google.com/file/d/1BpoTBLcdAFwFVVv4dZJ5NxslqKcq5AQ8/view?usp=drive_link). And then locate the downloaded file at ./checkpoints/ImageNet1k/model_best.pth.tar
 
 **Related citations:**
 

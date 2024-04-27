@@ -32,7 +32,7 @@ Note: For the instance of validation of NetTOP on ImageNet, download its trained
 
 **Related citations:**
 
-If you use any materials, please cite the following relevant works.
+If you use any materials, please cite the following relevant work(s).
 
 ```
 @article{NetTOPNguyen24,

@@ -40,6 +40,10 @@ If you use any materials, please cite the following relevant work(s).
   author       = {Thanh Tuan Nguyen and Thanh Phuong Nguyen},
   title        = {NetTOP: A light-weight network of orthogonal-plane features for image recognition},
   journal      = {Machine Learning},
-  note         = {(submitted in 2024)}
+  volume       = {114},
+  number       = {4},
+  pages        = {98},
+  year         = {2025},
+  url          = {https://doi.org/10.1007/s10994-024-06672-2}
 }
 ```
